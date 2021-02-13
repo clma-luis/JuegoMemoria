@@ -1,0 +1,12 @@
+@import "./variables.scss";
+
+body {
+	padding: 0;
+	margin: 0;
+	font-family: $theme-font;
+	background-color: Black;
+}
+
+div:focus{
+	outline: none !important;
+}
